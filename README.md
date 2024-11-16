@@ -10,4 +10,5 @@ $ uv sync --extra notebook
 
 ```
 $ uv run python src/main.py
+$ uv run jupyter lab
 ```
